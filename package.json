@@ -1,0 +1,25 @@
+{
+  "name": "lol-report-backend",
+  "version": "1.0.0",
+  "description": "Express backend for API requests",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerdance/lol-report-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerdance/lol-report-backend/issues"
+  },
+  "homepage": "https://github.com/tylerdance/lol-report-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
